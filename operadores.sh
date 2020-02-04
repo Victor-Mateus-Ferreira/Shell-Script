@@ -7,3 +7,4 @@ read -p "Digite o segundo Numero: " num2
 
 echo $[num1 + num2]
 
+testando
