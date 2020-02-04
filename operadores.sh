@@ -1,5 +1,5 @@
 #!/bin/bash
-"Eu sou Tryber e..." "Vou ter muito sucesso na programação"
+"Eu sou Tryber e..."
 
 read -p "Digite um Numero: " num1
 
